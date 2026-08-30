@@ -1,0 +1,81 @@
+[21-Aug-2023 03:04:41 America/New_York] PHP Warning:  require_once(dashboard/includes/auto_loader.php): failed to open stream: No such file or directory in /home/dataeqwh/public_html/index/index.php on line 1
+[21-Aug-2023 03:04:41 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dataeqwh/public_html/index/index.php on line 1
+[21-Aug-2023 03:04:52 America/New_York] PHP Warning:  require_once(dashboard/includes/auto_loader.php): failed to open stream: No such file or directory in /home/dataeqwh/public_html/index/index.php on line 1
+[21-Aug-2023 03:04:52 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dataeqwh/public_html/index/index.php on line 1
+[27-Oct-2023 11:10:51 America/New_York] PHP Warning:  require_once(dashboard/includes/auto_loader.php): failed to open stream: No such file or directory in /home/dataeqwh/public_html/index/index.php on line 1
+[27-Oct-2023 11:10:51 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dataeqwh/public_html/index/index.php on line 1
+[12-Mar-2025 01:33:50 UTC] PHP Warning:  require_once(dashboard/includes/auto_loader.php): Failed to open stream: No such file or directory in /home/dataflex/agdatasub.com/index/index.php on line 1
+[12-Mar-2025 01:33:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/dataflex/agdatasub.com/index/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/dataflex/agdatasub.com/index/index.php on line 1
+[16-Mar-2025 08:33:33 UTC] PHP Warning:  require_once(dashboard/includes/auto_loader.php): Failed to open stream: No such file or directory in /home/dataflex/agdatasub.com/index/index.php on line 1
+[16-Mar-2025 08:33:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/dataflex/agdatasub.com/index/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/dataflex/agdatasub.com/index/index.php on line 1
+[18-Mar-2025 01:41:05 UTC] PHP Warning:  require_once(dashboard/includes/auto_loader.php): Failed to open stream: No such file or directory in /home/dataflex/agdatasub.com/index/index.php on line 1
+[18-Mar-2025 01:41:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/dataflex/agdatasub.com/index/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/dataflex/agdatasub.com/index/index.php on line 1
+[26-Mar-2025 13:23:02 UTC] PHP Warning:  require_once(dashboard/includes/auto_loader.php): Failed to open stream: No such file or directory in /home/dataflex/agdatasub.com/index/index.php on line 1
+[26-Mar-2025 13:23:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/dataflex/agdatasub.com/index/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/dataflex/agdatasub.com/index/index.php on line 1
+[06-Apr-2025 20:21:34 UTC] PHP Warning:  require_once(dashboard/includes/auto_loader.php): Failed to open stream: No such file or directory in /home/dataflex/agdatasub.com/index/index.php on line 1
+[06-Apr-2025 20:21:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/dataflex/agdatasub.com/index/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/dataflex/agdatasub.com/index/index.php on line 1
+[09-Apr-2025 22:15:06 UTC] PHP Warning:  require_once(dashboard/includes/auto_loader.php): Failed to open stream: No such file or directory in /home/dataflex/agdatasub.com/index/index.php on line 1
+[09-Apr-2025 22:15:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/dataflex/agdatasub.com/index/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/dataflex/agdatasub.com/index/index.php on line 1
+[14-Apr-2025 06:55:09 UTC] PHP Warning:  require_once(dashboard/includes/auto_loader.php): Failed to open stream: No such file or directory in /home/dataflex/agdatasub.com/index/index.php on line 1
+[14-Apr-2025 06:55:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/dataflex/agdatasub.com/index/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/dataflex/agdatasub.com/index/index.php on line 1
+[27-May-2025 15:24:38 UTC] PHP Warning:  require_once(dashboard/includes/auto_loader.php): Failed to open stream: No such file or directory in /home/dataflex/agdatasub.com/index/index.php on line 1
+[27-May-2025 15:24:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/dataflex/agdatasub.com/index/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/dataflex/agdatasub.com/index/index.php on line 1
+[29-May-2025 18:39:18 UTC] PHP Warning:  require_once(dashboard/includes/auto_loader.php): Failed to open stream: No such file or directory in /home/dataflex/agdatasub.com/index/index.php on line 1
+[29-May-2025 18:39:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/dataflex/agdatasub.com/index/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/dataflex/agdatasub.com/index/index.php on line 1
+[04-Jun-2025 01:03:54 UTC] PHP Warning:  require_once(dashboard/includes/auto_loader.php): Failed to open stream: No such file or directory in /home/dataflex/agdatasub.com/index/index.php on line 1
+[04-Jun-2025 01:03:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dataflex/agdatasub.com/index/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/dataflex/agdatasub.com/index/index.php on line 1
+[05-Jun-2025 09:10:54 UTC] PHP Warning:  require_once(dashboard/includes/auto_loader.php): Failed to open stream: No such file or directory in /home/dataflex/agdatasub.com/index/index.php on line 1
+[05-Jun-2025 09:10:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dataflex/agdatasub.com/index/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/dataflex/agdatasub.com/index/index.php on line 1
+[15-Jun-2025 09:39:26 UTC] PHP Warning:  require_once(dashboard/includes/auto_loader.php): Failed to open stream: No such file or directory in /home/dataflex/agdatasub.com/index/index.php on line 1
+[15-Jun-2025 09:39:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dataflex/agdatasub.com/index/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/dataflex/agdatasub.com/index/index.php on line 1
+[18-Jun-2025 06:10:41 UTC] PHP Warning:  require_once(dashboard/includes/auto_loader.php): Failed to open stream: No such file or directory in /home/dataflex/agdatasub.com/index/index.php on line 1
+[18-Jun-2025 06:10:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dataflex/agdatasub.com/index/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/dataflex/agdatasub.com/index/index.php on line 1
+[24-Jul-2025 17:02:42 UTC] PHP Warning:  require_once(dashboard/includes/auto_loader.php): Failed to open stream: No such file or directory in /home/dataflex/agdatasub.com/index/index.php on line 1
+[24-Jul-2025 17:02:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dataflex/agdatasub.com/index/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/dataflex/agdatasub.com/index/index.php on line 1
+[26-Jul-2025 19:26:41 UTC] PHP Warning:  require_once(dashboard/includes/auto_loader.php): Failed to open stream: No such file or directory in /home/dataflex/agdatasub.com/index/index.php on line 1
+[26-Jul-2025 19:26:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dashboard/includes/auto_loader.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dataflex/agdatasub.com/index/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/dataflex/agdatasub.com/index/index.php on line 1

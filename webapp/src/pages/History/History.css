@@ -1,0 +1,42 @@
+.history-page {
+  background: var(--color-bg);
+}
+
+.history-body {
+  padding: var(--space-4);
+}
+
+.history-empty {
+  text-align: center;
+  padding: var(--space-12) var(--space-6);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  animation: slideUp var(--duration-slow) var(--ease-out);
+}
+
+.history-empty-icon {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: var(--color-accent-soft);
+  color: var(--color-accent);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: var(--space-5);
+}
+
+.history-empty-title {
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: var(--space-2);
+}
+
+.history-empty-text {
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+  max-width: 260px;
+  line-height: 1.5;
+}

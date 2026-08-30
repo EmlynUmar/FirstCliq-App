@@ -1,0 +1,34 @@
+[22-Apr-2024 15:40:11 UTC] PHP Warning:  Undefined array key "ref" in /home/eplxbrcj/public_html/mobile/view-recharge-pins.php on line 10
+[22-Apr-2024 15:40:29 UTC] PHP Warning:  Undefined array key "ref" in /home/eplxbrcj/public_html/mobile/view-recharge-pins.php on line 10
+[22-Apr-2024 15:43:23 UTC] PHP Warning:  Undefined variable $pins in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 27
+[22-Apr-2024 15:43:23 UTC] PHP Warning:  Undefined variable $i in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 27
+[22-Apr-2024 15:43:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 27
+[22-Apr-2024 15:43:23 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 27
+[22-Apr-2024 15:43:37 UTC] PHP Warning:  Undefined variable $pins in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 27
+[22-Apr-2024 15:43:37 UTC] PHP Warning:  Undefined variable $i in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 27
+[22-Apr-2024 15:43:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 27
+[22-Apr-2024 15:43:37 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 27
+[22-Apr-2024 15:43:39 UTC] PHP Warning:  Undefined variable $pins in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 27
+[22-Apr-2024 15:43:39 UTC] PHP Warning:  Undefined variable $i in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 27
+[22-Apr-2024 15:43:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 27
+[22-Apr-2024 15:43:39 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 27
+[22-Apr-2024 15:45:34 UTC] PHP Warning:  require_once(includes/route.php): Failed to open stream: No such file or directory in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 2
+[22-Apr-2024 15:45:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/route.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 2
+[22-Apr-2024 15:45:37 UTC] PHP Warning:  require_once(includes/route.php): Failed to open stream: No such file or directory in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 2
+[22-Apr-2024 15:45:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/route.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 2
+[22-Apr-2024 15:46:00 UTC] PHP Warning:  require_once(../..includes/route.php): Failed to open stream: No such file or directory in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 2
+[22-Apr-2024 15:46:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../..includes/route.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 2
+[22-Apr-2024 15:46:01 UTC] PHP Warning:  require_once(../..includes/route.php): Failed to open stream: No such file or directory in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 2
+[22-Apr-2024 15:46:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../..includes/route.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eplxbrcj/public_html/mobile/view-recharge-pins2.php on line 2
