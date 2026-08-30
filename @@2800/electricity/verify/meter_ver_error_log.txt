@@ -1,0 +1,6 @@
+{"detail":"Invalid token."} : {
+                "meter_number": "24190916643",
+            	"meter_type" : "prepaid",
+            	"amount" : "1000",
+            	"service" : "3"
+            }

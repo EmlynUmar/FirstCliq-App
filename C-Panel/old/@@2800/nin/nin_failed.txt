@@ -1,0 +1,1 @@
+{"status":false,"message":"NIN details not found","transID":"062707-66196eeb3259f"}

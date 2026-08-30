@@ -1,0 +1,776 @@
+[10-May-2024 12:48:21 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[10-May-2024 13:38:29 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[10-May-2024 13:38:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[10-May-2024 13:38:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[10-May-2024 13:38:30 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[10-May-2024 17:14:45 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[10-May-2024 17:14:46 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[10-May-2024 17:14:46 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[10-May-2024 17:14:46 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[10-May-2024 17:16:39 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[10-May-2024 17:16:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[10-May-2024 17:16:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[10-May-2024 17:16:40 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[10-May-2024 20:00:47 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[10-May-2024 20:00:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[10-May-2024 20:00:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[10-May-2024 20:00:47 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[10-May-2024 20:00:53 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[10-May-2024 20:39:25 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[10-May-2024 20:39:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[10-May-2024 20:39:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[10-May-2024 20:39:25 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[10-May-2024 20:44:45 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[10-May-2024 20:44:46 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[10-May-2024 20:44:46 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[10-May-2024 20:44:46 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[11-May-2024 13:15:17 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[11-May-2024 13:15:17 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[11-May-2024 16:20:47 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[11-May-2024 16:20:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-May-2024 16:20:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-May-2024 16:20:49 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[11-May-2024 21:32:48 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[11-May-2024 21:32:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-May-2024 21:32:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-May-2024 21:32:50 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[11-May-2024 23:03:24 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[11-May-2024 23:03:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$firstName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 57
+[11-May-2024 23:03:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$middleName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 58
+[11-May-2024 23:03:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lastName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 59
+[11-May-2024 23:03:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$phoneNumber in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 60
+[11-May-2024 23:03:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$dob in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 61
+[11-May-2024 23:03:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$state in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 62
+[11-May-2024 23:03:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$town in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 63
+[11-May-2024 23:03:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$addressLine in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 64
+[11-May-2024 23:03:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lga in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 65
+[11-May-2024 23:03:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthCountry in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 66
+[11-May-2024 23:03:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthState in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 67
+[11-May-2024 23:03:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthLGA in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 68
+[11-May-2024 23:03:27 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 426
+[11-May-2024 23:03:27 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'placeholder' cannot be null in /home/eplxbrcj/public_html/core/Models/ApiModel.php:442
+Stack trace:
+#0 /home/eplxbrcj/public_html/core/Models/ApiModel.php(442): PDOStatement->execute()
+#1 /home/eplxbrcj/public_html/core/Controllers/PNV.php(74): ApiModel->recordReport(2243, '22331715464942', NULL, '07012879592', '{"id":1,"firstn...', 'regular', 'YET')
+#2 /home/eplxbrcj/public_html/@@2700/pnv/index.php(191): PNV->verifyMyPNV(Object(stdClass), Array)
+#3 {main}
+  thrown in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 442
+[11-May-2024 23:04:28 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[11-May-2024 23:04:30 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[12-May-2024 09:52:21 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[12-May-2024 09:52:28 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[12-May-2024 09:52:51 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[12-May-2024 09:52:51 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[12-May-2024 09:52:51 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[12-May-2024 09:58:51 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[12-May-2024 09:59:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[12-May-2024 09:59:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[12-May-2024 09:59:22 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[12-May-2024 10:00:04 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[12-May-2024 17:13:21 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[12-May-2024 17:13:22 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[12-May-2024 17:13:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[12-May-2024 17:13:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[12-May-2024 17:13:23 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[12-May-2024 17:13:23 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[13-May-2024 16:16:05 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[13-May-2024 16:16:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$firstName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 57
+[13-May-2024 16:16:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$middleName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 58
+[13-May-2024 16:16:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lastName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 59
+[13-May-2024 16:16:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$phoneNumber in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 60
+[13-May-2024 16:16:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$dob in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 61
+[13-May-2024 16:16:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$state in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 62
+[13-May-2024 16:16:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$town in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 63
+[13-May-2024 16:16:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$addressLine in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 64
+[13-May-2024 16:16:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lga in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 65
+[13-May-2024 16:16:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthCountry in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 66
+[13-May-2024 16:16:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthState in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 67
+[13-May-2024 16:16:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthLGA in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 68
+[13-May-2024 16:16:09 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 426
+[13-May-2024 16:16:09 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'placeholder' cannot be null in /home/eplxbrcj/public_html/core/Models/ApiModel.php:442
+Stack trace:
+#0 /home/eplxbrcj/public_html/core/Models/ApiModel.php(442): PDOStatement->execute()
+#1 /home/eplxbrcj/public_html/core/Controllers/PNV.php(74): ApiModel->recordReport(2208.0, '57281715613243', NULL, '08133320248', '{"id":1,"firstn...', 'regular', 'YET')
+#2 /home/eplxbrcj/public_html/@@2700/pnv/index.php(191): PNV->verifyMyPNV(Object(stdClass), Array)
+#3 {main}
+  thrown in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 442
+[13-May-2024 16:16:09 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[13-May-2024 16:16:10 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[13-May-2024 16:16:11 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[13-May-2024 16:16:12 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[13-May-2024 16:20:01 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[13-May-2024 16:27:40 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[13-May-2024 16:27:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 16:27:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 16:27:41 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[13-May-2024 16:28:57 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[13-May-2024 16:28:58 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[13-May-2024 16:35:55 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[13-May-2024 16:35:56 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 16:35:56 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 16:35:56 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[13-May-2024 18:15:36 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[13-May-2024 18:15:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 18:15:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 18:15:37 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[13-May-2024 18:15:37 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[13-May-2024 18:16:26 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[13-May-2024 18:16:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 18:16:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 18:16:26 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[13-May-2024 18:18:05 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[13-May-2024 18:18:06 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 18:18:06 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 18:18:06 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[13-May-2024 21:44:52 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[13-May-2024 21:44:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 21:44:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 21:44:54 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[13-May-2024 23:32:25 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[13-May-2024 23:32:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$firstName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 57
+[13-May-2024 23:32:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$middleName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 58
+[13-May-2024 23:32:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lastName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 59
+[13-May-2024 23:32:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$phoneNumber in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 60
+[13-May-2024 23:32:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$dob in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 61
+[13-May-2024 23:32:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$state in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 62
+[13-May-2024 23:32:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$town in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 63
+[13-May-2024 23:32:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$addressLine in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 64
+[13-May-2024 23:32:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lga in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 65
+[13-May-2024 23:32:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthCountry in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 66
+[13-May-2024 23:32:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthState in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 67
+[13-May-2024 23:32:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthLGA in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 68
+[13-May-2024 23:32:27 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 426
+[13-May-2024 23:32:27 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'placeholder' cannot be null in /home/eplxbrcj/public_html/core/Models/ApiModel.php:442
+Stack trace:
+#0 /home/eplxbrcj/public_html/core/Models/ApiModel.php(442): PDOStatement->execute()
+#1 /home/eplxbrcj/public_html/core/Controllers/PNV.php(74): ApiModel->recordReport(2208.0, '71481715639481', NULL, '08133320248', '{"id":1,"firstn...', 'premium', 'YET')
+#2 /home/eplxbrcj/public_html/@@2700/pnv/index.php(191): PNV->verifyMyPNV(Object(stdClass), Array)
+#3 {main}
+  thrown in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 442
+[13-May-2024 23:33:50 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[13-May-2024 23:33:51 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 23:33:51 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 23:33:51 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[13-May-2024 23:35:01 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[13-May-2024 23:35:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 23:35:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 23:35:03 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[13-May-2024 23:38:28 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[13-May-2024 23:38:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 23:38:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-May-2024 23:38:29 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[14-May-2024 07:16:44 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[14-May-2024 07:17:43 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[14-May-2024 11:24:53 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[14-May-2024 11:24:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[14-May-2024 11:24:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[14-May-2024 11:24:54 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[14-May-2024 14:41:19 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[14-May-2024 14:42:04 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[14-May-2024 14:42:16 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[14-May-2024 14:42:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[14-May-2024 14:42:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[14-May-2024 14:42:35 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[15-May-2024 00:09:41 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[15-May-2024 00:09:42 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[15-May-2024 00:09:42 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[15-May-2024 00:09:42 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[15-May-2024 12:07:36 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[15-May-2024 12:07:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$firstName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 57
+[15-May-2024 12:07:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$middleName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 58
+[15-May-2024 12:07:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lastName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 59
+[15-May-2024 12:07:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$phoneNumber in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 60
+[15-May-2024 12:07:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$dob in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 61
+[15-May-2024 12:07:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$state in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 62
+[15-May-2024 12:07:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$town in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 63
+[15-May-2024 12:07:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$addressLine in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 64
+[15-May-2024 12:07:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lga in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 65
+[15-May-2024 12:07:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthCountry in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 66
+[15-May-2024 12:07:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthState in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 67
+[15-May-2024 12:07:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthLGA in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 68
+[15-May-2024 12:07:39 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 426
+[15-May-2024 12:07:39 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'placeholder' cannot be null in /home/eplxbrcj/public_html/core/Models/ApiModel.php:442
+Stack trace:
+#0 /home/eplxbrcj/public_html/core/Models/ApiModel.php(442): PDOStatement->execute()
+#1 /home/eplxbrcj/public_html/core/Controllers/PNV.php(74): ApiModel->recordReport(2208.0, '22031715771179', NULL, '08068776677', '{"id":1,"firstn...', 'premium', 'YET')
+#2 /home/eplxbrcj/public_html/@@2700/pnv/index.php(191): PNV->verifyMyPNV(Object(stdClass), Array)
+#3 {main}
+  thrown in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 442
+[15-May-2024 12:57:19 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[15-May-2024 12:57:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$firstName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 57
+[15-May-2024 12:57:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$middleName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 58
+[15-May-2024 12:57:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lastName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 59
+[15-May-2024 12:57:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$phoneNumber in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 60
+[15-May-2024 12:57:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$dob in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 61
+[15-May-2024 12:57:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$state in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 62
+[15-May-2024 12:57:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$town in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 63
+[15-May-2024 12:57:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$addressLine in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 64
+[15-May-2024 12:57:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lga in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 65
+[15-May-2024 12:57:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthCountry in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 66
+[15-May-2024 12:57:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthState in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 67
+[15-May-2024 12:57:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthLGA in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 68
+[15-May-2024 12:57:21 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 426
+[15-May-2024 12:57:21 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'placeholder' cannot be null in /home/eplxbrcj/public_html/core/Models/ApiModel.php:442
+Stack trace:
+#0 /home/eplxbrcj/public_html/core/Models/ApiModel.php(442): PDOStatement->execute()
+#1 /home/eplxbrcj/public_html/core/Controllers/PNV.php(74): ApiModel->recordReport(2208.0, '39431715774177', NULL, '08068776677', '{"id":1,"firstn...', 'premium', 'YET')
+#2 /home/eplxbrcj/public_html/@@2700/pnv/index.php(191): PNV->verifyMyPNV(Object(stdClass), Array)
+#3 {main}
+  thrown in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 442
+[15-May-2024 16:42:19 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[15-May-2024 16:42:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$firstName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 57
+[15-May-2024 16:42:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$middleName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 58
+[15-May-2024 16:42:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lastName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 59
+[15-May-2024 16:42:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$phoneNumber in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 60
+[15-May-2024 16:42:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$dob in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 61
+[15-May-2024 16:42:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$state in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 62
+[15-May-2024 16:42:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$town in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 63
+[15-May-2024 16:42:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$addressLine in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 64
+[15-May-2024 16:42:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lga in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 65
+[15-May-2024 16:42:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthCountry in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 66
+[15-May-2024 16:42:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthState in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 67
+[15-May-2024 16:42:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthLGA in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 68
+[15-May-2024 16:42:21 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 426
+[15-May-2024 16:42:21 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'placeholder' cannot be null in /home/eplxbrcj/public_html/core/Models/ApiModel.php:442
+Stack trace:
+#0 /home/eplxbrcj/public_html/core/Models/ApiModel.php(442): PDOStatement->execute()
+#1 /home/eplxbrcj/public_html/core/Controllers/PNV.php(74): ApiModel->recordReport(607.0, '28281715787710', NULL, '08083834858', '{"id":1,"firstn...', 'regular', 'YET')
+#2 /home/eplxbrcj/public_html/@@2700/pnv/index.php(191): PNV->verifyMyPNV(Object(stdClass), Array)
+#3 {main}
+  thrown in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 442
+[15-May-2024 16:55:36 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[15-May-2024 16:55:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[15-May-2024 16:55:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[15-May-2024 16:55:37 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[15-May-2024 16:55:54 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[15-May-2024 16:55:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[15-May-2024 16:55:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[15-May-2024 16:55:55 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[16-May-2024 11:55:29 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[16-May-2024 11:56:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[16-May-2024 11:56:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[16-May-2024 11:56:00 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[16-May-2024 13:54:29 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[16-May-2024 22:17:25 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[16-May-2024 22:17:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$firstName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 57
+[16-May-2024 22:17:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$middleName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 58
+[16-May-2024 22:17:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lastName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 59
+[16-May-2024 22:17:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$phoneNumber in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 60
+[16-May-2024 22:17:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$dob in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 61
+[16-May-2024 22:17:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$state in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 62
+[16-May-2024 22:17:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$town in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 63
+[16-May-2024 22:17:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$addressLine in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 64
+[16-May-2024 22:17:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lga in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 65
+[16-May-2024 22:17:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthCountry in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 66
+[16-May-2024 22:17:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthState in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 67
+[16-May-2024 22:17:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthLGA in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 68
+[16-May-2024 22:17:27 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 426
+[16-May-2024 22:17:27 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'placeholder' cannot be null in /home/eplxbrcj/public_html/core/Models/ApiModel.php:442
+Stack trace:
+#0 /home/eplxbrcj/public_html/core/Models/ApiModel.php(442): PDOStatement->execute()
+#1 /home/eplxbrcj/public_html/core/Controllers/PNV.php(74): ApiModel->recordReport(2043.0, '22731715894207', NULL, '08149709557', '{"id":1,"firstn...', 'standard', 'YET')
+#2 /home/eplxbrcj/public_html/@@2700/pnv/index.php(191): PNV->verifyMyPNV(Object(stdClass), Array)
+#3 {main}
+  thrown in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 442
+[17-May-2024 09:19:02 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[17-May-2024 09:19:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[17-May-2024 09:19:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[17-May-2024 09:19:04 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[17-May-2024 13:05:02 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[17-May-2024 13:05:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$firstName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 57
+[17-May-2024 13:05:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$middleName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 58
+[17-May-2024 13:05:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lastName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 59
+[17-May-2024 13:05:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$phoneNumber in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 60
+[17-May-2024 13:05:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$dob in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 61
+[17-May-2024 13:05:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$state in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 62
+[17-May-2024 13:05:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$town in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 63
+[17-May-2024 13:05:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$addressLine in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 64
+[17-May-2024 13:05:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lga in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 65
+[17-May-2024 13:05:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthCountry in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 66
+[17-May-2024 13:05:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthState in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 67
+[17-May-2024 13:05:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthLGA in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 68
+[17-May-2024 13:05:05 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 426
+[17-May-2024 13:05:05 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'placeholder' cannot be null in /home/eplxbrcj/public_html/core/Models/ApiModel.php:442
+Stack trace:
+#0 /home/eplxbrcj/public_html/core/Models/ApiModel.php(442): PDOStatement->execute()
+#1 /home/eplxbrcj/public_html/core/Controllers/PNV.php(74): ApiModel->recordReport(2208.0, '83601715947412', NULL, '08133320248', '{"id":1,"firstn...', 'premium', 'YET')
+#2 /home/eplxbrcj/public_html/@@2700/pnv/index.php(191): PNV->verifyMyPNV(Object(stdClass), Array)
+#3 {main}
+  thrown in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 442
+[17-May-2024 14:13:31 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[17-May-2024 14:13:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[17-May-2024 14:13:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[17-May-2024 14:13:33 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[17-May-2024 14:13:49 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[17-May-2024 14:22:34 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[17-May-2024 14:51:58 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[17-May-2024 14:52:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$firstName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 57
+[17-May-2024 14:52:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$middleName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 58
+[17-May-2024 14:52:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lastName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 59
+[17-May-2024 14:52:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$phoneNumber in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 60
+[17-May-2024 14:52:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$dob in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 61
+[17-May-2024 14:52:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$state in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 62
+[17-May-2024 14:52:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$town in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 63
+[17-May-2024 14:52:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$addressLine in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 64
+[17-May-2024 14:52:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lga in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 65
+[17-May-2024 14:52:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthCountry in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 66
+[17-May-2024 14:52:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthState in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 67
+[17-May-2024 14:52:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthLGA in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 68
+[17-May-2024 14:52:00 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 426
+[17-May-2024 14:52:00 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'placeholder' cannot be null in /home/eplxbrcj/public_html/core/Models/ApiModel.php:442
+Stack trace:
+#0 /home/eplxbrcj/public_html/core/Models/ApiModel.php(442): PDOStatement->execute()
+#1 /home/eplxbrcj/public_html/core/Controllers/PNV.php(74): ApiModel->recordReport(750.0, '43511715953903', NULL, '09035994043', '{"id":1,"firstn...', 'premium', 'YET')
+#2 /home/eplxbrcj/public_html/@@2700/pnv/index.php(191): PNV->verifyMyPNV(Object(stdClass), Array)
+#3 {main}
+  thrown in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 442
+[17-May-2024 23:32:14 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[18-May-2024 05:57:10 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[18-May-2024 05:57:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[18-May-2024 05:57:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[18-May-2024 05:57:40 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[18-May-2024 05:57:54 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[18-May-2024 05:58:01 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[31-May-2024 14:23:37 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[31-May-2024 14:23:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$firstName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 57
+[31-May-2024 14:23:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$middleName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 58
+[31-May-2024 14:23:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lastName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 59
+[31-May-2024 14:23:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$phoneNumber in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 60
+[31-May-2024 14:23:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$dob in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 61
+[31-May-2024 14:23:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$state in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 62
+[31-May-2024 14:23:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$town in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 63
+[31-May-2024 14:23:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$addressLine in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 64
+[31-May-2024 14:23:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lga in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 65
+[31-May-2024 14:23:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthCountry in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 66
+[31-May-2024 14:23:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthState in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 67
+[31-May-2024 14:23:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthLGA in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 68
+[31-May-2024 14:23:39 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 426
+[31-May-2024 14:23:39 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'placeholder' cannot be null in /home/eplxbrcj/public_html/core/Models/ApiModel.php:442
+Stack trace:
+#0 /home/eplxbrcj/public_html/core/Models/ApiModel.php(442): PDOStatement->execute()
+#1 /home/eplxbrcj/public_html/core/Controllers/PNV.php(74): ApiModel->recordReport(2198, '92151717161798', NULL, '08133445562', '{"id":1,"firstn...', 'premium', 'YET')
+#2 /home/eplxbrcj/public_html/@@2700/pnv/index.php(191): PNV->verifyMyPNV(Object(stdClass), Array)
+#3 {main}
+  thrown in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 442
+[01-Jun-2024 13:19:43 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[01-Jun-2024 13:24:43 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[01-Jun-2024 13:25:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[01-Jun-2024 13:25:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[01-Jun-2024 13:25:14 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[01-Jun-2024 13:25:37 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[01-Jun-2024 13:25:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[01-Jun-2024 13:25:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[01-Jun-2024 13:25:38 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[02-Jun-2024 10:36:06 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[02-Jun-2024 10:36:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[02-Jun-2024 10:36:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[02-Jun-2024 10:36:08 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[02-Jun-2024 19:20:28 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[02-Jun-2024 19:20:30 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[02-Jun-2024 19:20:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[02-Jun-2024 19:20:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[02-Jun-2024 19:20:30 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[02-Jun-2024 19:21:52 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[02-Jun-2024 19:21:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[02-Jun-2024 19:21:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[02-Jun-2024 19:21:54 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[02-Jun-2024 19:22:55 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[02-Jun-2024 19:22:57 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[02-Jun-2024 19:22:57 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[02-Jun-2024 19:22:57 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[07-Jun-2024 12:33:01 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[07-Jun-2024 12:33:03 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[07-Jun-2024 12:33:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$firstName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 57
+[07-Jun-2024 12:33:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$middleName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 58
+[07-Jun-2024 12:33:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lastName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 59
+[07-Jun-2024 12:33:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$phoneNumber in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 60
+[07-Jun-2024 12:33:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$dob in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 61
+[07-Jun-2024 12:33:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$state in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 62
+[07-Jun-2024 12:33:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$town in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 63
+[07-Jun-2024 12:33:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$addressLine in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 64
+[07-Jun-2024 12:33:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lga in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 65
+[07-Jun-2024 12:33:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthCountry in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 66
+[07-Jun-2024 12:33:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthState in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 67
+[07-Jun-2024 12:33:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthLGA in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 68
+[07-Jun-2024 12:33:04 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 426
+[07-Jun-2024 12:33:04 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'placeholder' cannot be null in /home/eplxbrcj/public_html/core/Models/ApiModel.php:442
+Stack trace:
+#0 /home/eplxbrcj/public_html/core/Models/ApiModel.php(442): PDOStatement->execute()
+#1 /home/eplxbrcj/public_html/core/Controllers/PNV.php(74): ApiModel->recordReport(1938, '36671717759960', NULL, '08069612955', '{"id":1,"firstn...', 'regular', 'YET')
+#2 /home/eplxbrcj/public_html/@@2700/pnv/index.php(191): PNV->verifyMyPNV(Object(stdClass), Array)
+#3 {main}
+  thrown in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 442
+[07-Jun-2024 16:21:55 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[07-Jun-2024 16:21:56 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[07-Jun-2024 16:21:56 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[07-Jun-2024 16:21:56 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[07-Jun-2024 16:32:54 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[07-Jun-2024 16:32:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[07-Jun-2024 16:32:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[07-Jun-2024 16:32:55 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[07-Jun-2024 16:35:40 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[07-Jun-2024 16:35:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[07-Jun-2024 16:35:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[07-Jun-2024 16:35:41 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[07-Jun-2024 16:35:43 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[07-Jun-2024 16:35:55 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[07-Jun-2024 16:41:01 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[07-Jun-2024 16:41:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[07-Jun-2024 16:41:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[07-Jun-2024 16:41:02 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[07-Jun-2024 17:06:17 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[07-Jun-2024 17:06:17 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[07-Jun-2024 17:06:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[07-Jun-2024 17:06:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[07-Jun-2024 17:06:17 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[07-Jun-2024 17:16:37 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[07-Jun-2024 17:16:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[07-Jun-2024 17:16:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[07-Jun-2024 17:16:37 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[09-Jun-2024 23:06:42 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[09-Jun-2024 23:06:43 Africa/Lagos] PHP Warning:  Attempt to read property "status" on null in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 55
+[09-Jun-2024 23:06:43 Africa/Lagos] PHP Warning:  Attempt to read property "status" on null in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 55
+[09-Jun-2024 23:06:43 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[09-Jun-2024 23:06:43 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[09-Jun-2024 23:06:43 Africa/Lagos] PHP Warning:  Attempt to read property "status" on null in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 149
+[09-Jun-2024 23:06:43 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[09-Jun-2024 23:09:17 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[09-Jun-2024 23:09:18 Africa/Lagos] PHP Warning:  Attempt to read property "status" on null in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 55
+[09-Jun-2024 23:09:18 Africa/Lagos] PHP Warning:  Attempt to read property "status" on null in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 55
+[09-Jun-2024 23:09:18 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[09-Jun-2024 23:09:18 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[09-Jun-2024 23:09:18 Africa/Lagos] PHP Warning:  Attempt to read property "status" on null in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 149
+[09-Jun-2024 23:09:18 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[10-Jun-2024 20:20:13 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[10-Jun-2024 20:20:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[10-Jun-2024 20:20:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[10-Jun-2024 20:20:13 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[10-Jun-2024 20:20:57 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[10-Jun-2024 20:22:16 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[10-Jun-2024 20:22:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[10-Jun-2024 20:22:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[10-Jun-2024 20:22:17 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[11-Jun-2024 07:26:32 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[11-Jun-2024 07:26:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jun-2024 07:26:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jun-2024 07:26:34 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[11-Jun-2024 07:27:42 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[11-Jun-2024 07:27:43 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jun-2024 07:27:43 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jun-2024 07:27:43 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[11-Jun-2024 07:28:01 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[11-Jun-2024 07:28:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jun-2024 07:28:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jun-2024 07:28:02 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[13-Jun-2024 17:30:08 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[13-Jun-2024 17:30:11 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[13-Jun-2024 17:30:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-Jun-2024 17:30:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[13-Jun-2024 17:30:39 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[13-Jun-2024 17:38:12 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[14-Jun-2024 11:24:01 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[14-Jun-2024 11:24:06 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[14-Jun-2024 11:24:32 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[14-Jun-2024 11:24:32 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[14-Jun-2024 11:24:32 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[14-Jun-2024 11:24:32 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[14-Jun-2024 11:24:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[14-Jun-2024 11:24:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[14-Jun-2024 11:24:33 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[15-Jun-2024 10:13:21 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[15-Jun-2024 11:07:34 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[15-Jun-2024 11:07:36 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[15-Jun-2024 11:08:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[15-Jun-2024 11:08:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[15-Jun-2024 11:08:05 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[15-Jun-2024 11:08:19 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[15-Jun-2024 11:08:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[15-Jun-2024 11:08:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[15-Jun-2024 11:08:20 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[15-Jun-2024 12:42:58 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[15-Jun-2024 12:43:24 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[15-Jun-2024 12:43:28 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[15-Jun-2024 12:43:28 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[15-Jun-2024 12:43:28 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[15-Jun-2024 12:43:57 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[15-Jun-2024 12:43:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[15-Jun-2024 12:43:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[15-Jun-2024 12:43:58 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[16-Jun-2024 11:41:39 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[16-Jun-2024 11:41:41 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[16-Jun-2024 11:42:10 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[16-Jun-2024 11:42:10 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[16-Jun-2024 11:42:10 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[16-Jun-2024 11:45:57 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[16-Jun-2024 11:46:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[16-Jun-2024 11:46:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[16-Jun-2024 11:46:29 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[16-Jun-2024 11:46:49 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[18-Jun-2024 10:55:01 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[18-Jun-2024 10:55:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[18-Jun-2024 10:55:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[18-Jun-2024 10:55:04 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[18-Jun-2024 10:56:22 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[18-Jun-2024 13:40:07 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[18-Jun-2024 13:40:10 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[18-Jun-2024 13:40:10 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[18-Jun-2024 13:40:10 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[18-Jun-2024 13:49:25 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[18-Jun-2024 13:49:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[18-Jun-2024 13:49:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[18-Jun-2024 13:49:26 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[19-Jun-2024 15:11:17 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[19-Jun-2024 15:11:22 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[19-Jun-2024 15:11:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[19-Jun-2024 15:11:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[19-Jun-2024 15:11:49 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[19-Jun-2024 19:49:49 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[19-Jun-2024 19:49:58 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[19-Jun-2024 19:50:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[19-Jun-2024 19:50:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[19-Jun-2024 19:50:20 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[19-Jun-2024 19:53:43 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[19-Jun-2024 19:53:46 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[19-Jun-2024 19:54:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[19-Jun-2024 19:54:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[19-Jun-2024 19:54:14 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[19-Jun-2024 19:55:13 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[19-Jun-2024 19:55:19 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[19-Jun-2024 19:55:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[19-Jun-2024 19:55:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[19-Jun-2024 19:55:44 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[20-Jun-2024 13:09:09 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[20-Jun-2024 13:09:16 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[20-Jun-2024 13:09:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[20-Jun-2024 13:09:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[20-Jun-2024 13:09:41 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[20-Jun-2024 13:12:04 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[20-Jun-2024 13:12:18 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[20-Jun-2024 13:12:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[20-Jun-2024 13:12:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[20-Jun-2024 13:12:35 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[22-Jun-2024 17:00:53 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[22-Jun-2024 17:01:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[22-Jun-2024 17:01:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[22-Jun-2024 17:01:24 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[23-Jun-2024 13:07:10 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[23-Jun-2024 13:20:22 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[23-Jun-2024 13:21:29 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[23-Jun-2024 13:21:33 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[23-Jun-2024 13:22:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[23-Jun-2024 13:22:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[23-Jun-2024 13:22:00 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[23-Jun-2024 13:22:12 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[23-Jun-2024 13:22:16 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[23-Jun-2024 13:22:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[23-Jun-2024 13:22:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[23-Jun-2024 13:22:21 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[23-Jun-2024 15:52:42 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[23-Jun-2024 18:46:26 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[23-Jun-2024 18:46:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[23-Jun-2024 18:46:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[23-Jun-2024 18:46:27 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[23-Jun-2024 18:49:05 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[23-Jun-2024 18:49:07 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[23-Jun-2024 18:49:07 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[23-Jun-2024 18:49:07 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[23-Jun-2024 19:22:48 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[23-Jun-2024 19:22:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[23-Jun-2024 19:22:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[23-Jun-2024 19:22:49 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[24-Jun-2024 08:59:06 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[24-Jun-2024 09:23:19 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[24-Jun-2024 09:23:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[24-Jun-2024 09:23:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[24-Jun-2024 09:23:20 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[24-Jun-2024 11:01:14 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[24-Jun-2024 11:01:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[24-Jun-2024 11:01:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[24-Jun-2024 11:01:45 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[24-Jun-2024 15:31:25 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[24-Jun-2024 15:33:32 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[24-Jun-2024 15:33:41 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[24-Jun-2024 15:34:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[24-Jun-2024 15:34:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[24-Jun-2024 15:34:03 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[24-Jun-2024 15:34:35 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[24-Jun-2024 15:35:01 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[24-Jun-2024 15:35:06 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[24-Jun-2024 15:35:06 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[24-Jun-2024 15:35:06 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[24-Jun-2024 15:36:16 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[24-Jun-2024 15:36:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[24-Jun-2024 15:36:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[24-Jun-2024 15:36:47 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[24-Jun-2024 15:37:37 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[24-Jun-2024 15:38:07 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[24-Jun-2024 15:38:07 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[24-Jun-2024 15:38:07 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[25-Jun-2024 11:51:42 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[25-Jun-2024 11:51:42 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[25-Jun-2024 11:51:43 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[25-Jun-2024 11:51:43 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[25-Jun-2024 11:51:43 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[25-Jun-2024 11:51:43 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[25-Jun-2024 11:52:28 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[25-Jun-2024 11:52:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[25-Jun-2024 11:52:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[25-Jun-2024 11:52:29 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[25-Jun-2024 12:52:36 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[25-Jun-2024 12:52:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[25-Jun-2024 12:52:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[25-Jun-2024 12:52:37 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[25-Jun-2024 12:53:44 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[25-Jun-2024 12:53:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[25-Jun-2024 12:53:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[25-Jun-2024 12:53:45 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[25-Jun-2024 13:00:14 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[25-Jun-2024 13:01:00 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[25-Jun-2024 13:01:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[25-Jun-2024 13:01:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[25-Jun-2024 13:01:01 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[26-Jun-2024 05:53:31 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[26-Jun-2024 05:53:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[26-Jun-2024 05:53:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[26-Jun-2024 05:53:33 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[26-Jun-2024 13:11:50 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[26-Jun-2024 13:11:51 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[26-Jun-2024 13:11:51 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[26-Jun-2024 13:11:51 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[26-Jun-2024 13:11:53 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[26-Jun-2024 13:12:43 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[26-Jun-2024 13:12:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[26-Jun-2024 13:12:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[26-Jun-2024 13:12:44 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[26-Jun-2024 13:49:53 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[26-Jun-2024 13:49:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[26-Jun-2024 13:49:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[26-Jun-2024 13:49:54 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[27-Jun-2024 08:44:02 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[27-Jun-2024 08:44:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[27-Jun-2024 08:44:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[27-Jun-2024 08:44:03 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[27-Jun-2024 13:50:22 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[27-Jun-2024 13:50:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[27-Jun-2024 13:50:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[27-Jun-2024 13:50:24 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[28-Jun-2024 01:04:21 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[28-Jun-2024 13:45:49 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[28-Jun-2024 13:45:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[28-Jun-2024 13:45:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[28-Jun-2024 13:45:50 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[28-Jun-2024 13:46:47 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[28-Jun-2024 13:46:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[28-Jun-2024 13:46:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[28-Jun-2024 13:46:48 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[28-Jun-2024 16:02:57 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[28-Jun-2024 16:02:57 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 143
+[28-Jun-2024 16:02:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[28-Jun-2024 16:02:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[28-Jun-2024 16:02:58 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[29-Jun-2024 05:45:13 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[29-Jun-2024 05:45:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[29-Jun-2024 05:45:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[29-Jun-2024 05:45:14 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[29-Jun-2024 05:46:50 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[29-Jun-2024 05:46:51 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[29-Jun-2024 05:46:51 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[29-Jun-2024 05:46:51 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[29-Jun-2024 11:53:12 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[29-Jun-2024 11:53:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 55
+[29-Jun-2024 11:53:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 55
+[29-Jun-2024 11:53:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[29-Jun-2024 11:53:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[29-Jun-2024 11:53:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 149
+[29-Jun-2024 11:53:12 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[09-Jul-2024 09:44:49 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[09-Jul-2024 09:44:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$firstName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 57
+[09-Jul-2024 09:44:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$middleName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 58
+[09-Jul-2024 09:44:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lastName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 59
+[09-Jul-2024 09:44:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$phoneNumber in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 60
+[09-Jul-2024 09:44:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$dob in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 61
+[09-Jul-2024 09:44:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$state in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 62
+[09-Jul-2024 09:44:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$town in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 63
+[09-Jul-2024 09:44:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$addressLine in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 64
+[09-Jul-2024 09:44:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lga in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 65
+[09-Jul-2024 09:44:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthCountry in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 66
+[09-Jul-2024 09:44:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthState in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 67
+[09-Jul-2024 09:44:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthLGA in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 68
+[09-Jul-2024 09:44:54 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 426
+[09-Jul-2024 09:44:54 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'placeholder' cannot be null in /home/eplxbrcj/public_html/core/Models/ApiModel.php:442
+Stack trace:
+#0 /home/eplxbrcj/public_html/core/Models/ApiModel.php(442): PDOStatement->execute()
+#1 /home/eplxbrcj/public_html/core/Controllers/PNV.php(74): ApiModel->recordReport(2203, '25751720514613', NULL, '09033888378', '{"id":1,"firstn...', 'regular', 'YET')
+#2 /home/eplxbrcj/public_html/@@2700/pnv/index.php(191): PNV->verifyMyPNV(Object(stdClass), Array)
+#3 {main}
+  thrown in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 442
+[09-Jul-2024 22:57:16 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[10-Jul-2024 08:55:27 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[10-Jul-2024 12:20:55 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[10-Jul-2024 12:20:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$firstName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 57
+[10-Jul-2024 12:20:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$middleName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 58
+[10-Jul-2024 12:20:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lastName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 59
+[10-Jul-2024 12:20:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$phoneNumber in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 60
+[10-Jul-2024 12:20:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$dob in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 61
+[10-Jul-2024 12:20:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$state in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 62
+[10-Jul-2024 12:20:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$town in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 63
+[10-Jul-2024 12:20:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$addressLine in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 64
+[10-Jul-2024 12:20:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lga in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 65
+[10-Jul-2024 12:20:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthCountry in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 66
+[10-Jul-2024 12:20:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthState in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 67
+[10-Jul-2024 12:20:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthLGA in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 68
+[10-Jul-2024 12:20:59 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 426
+[10-Jul-2024 12:20:59 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'placeholder' cannot be null in /home/eplxbrcj/public_html/core/Models/ApiModel.php:442
+Stack trace:
+#0 /home/eplxbrcj/public_html/core/Models/ApiModel.php(442): PDOStatement->execute()
+#1 /home/eplxbrcj/public_html/core/Controllers/PNV.php(74): ApiModel->recordReport(2197, '72881720610404', NULL, '08130925417', '{"id":1,"firstn...', 'standard', 'YET')
+#2 /home/eplxbrcj/public_html/@@2700/pnv/index.php(191): PNV->verifyMyPNV(Object(stdClass), Array)
+#3 {main}
+  thrown in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 442
+[10-Jul-2024 12:22:33 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[10-Jul-2024 12:53:06 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[10-Jul-2024 12:53:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$firstName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 57
+[10-Jul-2024 12:53:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$middleName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 58
+[10-Jul-2024 12:53:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lastName in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 59
+[10-Jul-2024 12:53:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$phoneNumber in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 60
+[10-Jul-2024 12:53:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$dob in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 61
+[10-Jul-2024 12:53:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$state in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 62
+[10-Jul-2024 12:53:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$town in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 63
+[10-Jul-2024 12:53:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$addressLine in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 64
+[10-Jul-2024 12:53:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$lga in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 65
+[10-Jul-2024 12:53:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthCountry in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 66
+[10-Jul-2024 12:53:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthState in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 67
+[10-Jul-2024 12:53:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$birthLGA in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 68
+[10-Jul-2024 12:53:13 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 426
+[10-Jul-2024 12:53:13 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'placeholder' cannot be null in /home/eplxbrcj/public_html/core/Models/ApiModel.php:442
+Stack trace:
+#0 /home/eplxbrcj/public_html/core/Models/ApiModel.php(442): PDOStatement->execute()
+#1 /home/eplxbrcj/public_html/core/Controllers/PNV.php(74): ApiModel->recordReport(1394, '15901720612330', NULL, '09037889890', '{"id":1,"firstn...', 'regular', 'YET')
+#2 /home/eplxbrcj/public_html/@@2700/pnv/index.php(191): PNV->verifyMyPNV(Object(stdClass), Array)
+#3 {main}
+  thrown in /home/eplxbrcj/public_html/core/Models/ApiModel.php on line 442
+[10-Jul-2024 12:53:37 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 133
+[11-Jul-2024 17:50:55 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[11-Jul-2024 17:50:56 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jul-2024 17:50:56 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jul-2024 17:50:56 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[11-Jul-2024 18:26:05 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[11-Jul-2024 18:26:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jul-2024 18:26:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jul-2024 18:26:05 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[11-Jul-2024 18:26:39 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[11-Jul-2024 18:26:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jul-2024 18:26:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jul-2024 18:26:40 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[11-Jul-2024 18:27:15 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[11-Jul-2024 18:27:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jul-2024 18:27:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jul-2024 18:27:17 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[11-Jul-2024 18:31:57 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[11-Jul-2024 18:31:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jul-2024 18:31:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jul-2024 18:31:58 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207
+[11-Jul-2024 18:32:48 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 157
+[11-Jul-2024 18:32:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jul-2024 18:32:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/PNV.php on line 145
+[11-Jul-2024 18:32:48 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/pnv/index.php on line 207

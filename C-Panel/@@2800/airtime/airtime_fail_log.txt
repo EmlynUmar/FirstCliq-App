@@ -1,0 +1,1 @@
+{"status":"fail","msg":"Sorry, GLO VTU service is not available at the moment"}

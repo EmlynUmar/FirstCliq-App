@@ -1,0 +1,1 @@
+{"status":"fail","msg":"Please enter a valid 11 digit phone number"}

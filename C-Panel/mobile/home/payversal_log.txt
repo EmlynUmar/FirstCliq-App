@@ -1,0 +1,1 @@
+{"status":true,"service":"CREATE_VIRTUAL_ACCOUNT","business":"7D85CA5C18CD45AAB4F8043433E8CA27","banks":[{"bankCode":"120001","bankName":"9Payment Service Bank","accountNumber":"5844778018","accountName":"AGDATASUB BUSINESS","account_type":"STATIC","expire_date":null,"trackingReference":"P03Y8TBMA9AF044F751RDD7E"}],"errors":[]}

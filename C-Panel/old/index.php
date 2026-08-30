@@ -1,0 +1,453 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+
+    <title>Dataflex</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="index/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="index/assets/css/fontawesome.css">
+    <link rel="stylesheet" href="index/assets/css/templatemo-seo-dream.css">
+    <link rel="stylesheet" href="index/assets/css/animated.css">
+    <link rel="stylesheet" href="index/assets/css/owl.css">
+<!--
+
+TemplateMo 563 SEO Dream
+
+https://templatemo.com/tm-563-seo-dream
+
+-->
+<style type="text/css">
+  .header_image{
+    width: 200px;
+  }
+</style>
+
+</head>
+
+<body>
+
+  <!-- ***** Preloader Start ***** -->
+  
+    <div class="preloader-inner">
+      <span class="dot"></span>
+      <div class="dots">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+  
+  <!-- ***** Preloader End ***** -->
+
+  <!-- ***** Header Area Start ***** -->
+  <header class="header-area header-sticky wow slideInDown" data-wow-duration="0.75s" data-wow-delay="0s">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <nav class="main-nav">
+            <img src="/assets/img/logolight.png" alt="" class="header_image">
+
+            <!-- ***** Logo Start ***** -->
+            <a href="index.php" class="logo">
+              
+              
+            </a>
+            <!-- ***** Logo End ***** -->
+            <!-- ***** Menu Start ***** -->
+            <ul class="nav">
+              <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
+              <li class="scroll-to-section"><a href="#features">Features</a></li>
+              <li class="scroll-to-section"><a href="#about">About Us</a></li>
+              <li class="scroll-to-section"><a href="#services">Services</a></li>
+              <li class="scroll-to-section"><a href="/mobile/login">Login</a></li>
+              <li class="scroll-to-section"><a href="/mobile/register">Register</a></li>
+              <li class="scroll-to-section"><a href="#contact">Contact Us</a></li> 
+              <li class="scroll-to-section"><div class="main-blue-button"><a href="/mobile/login">Login</a></div></li> 
+            </ul>        
+            <a class='menu-trigger'>
+                <span>Menu</span>
+            </a>
+            <!-- ***** Menu End ***** -->
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
+  <!-- ***** Header Area End ***** -->
+
+  <div class="main-banner wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="row">
+             <div class="col-lg-6">
+              <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+                <img src="index/assets/images/banner-right-image.png" alt="">
+              </div>
+            </div>
+            
+
+            <div class="col-lg-6 align-self-center">
+              <div class="left-content header-text wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
+                <div class="row">
+                  <div class="col-lg-4 col-sm-4">
+                   
+                  </div>
+                  <div class="col-lg-4 col-sm-4">
+                    <div class="info-stat">
+                      <div class="main-green-button scroll-to-section">
+                      <a href="/mobile/login">Login</a>
+                    </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-4 col-sm-4">
+                    <div class="info-stat">
+                      <div class="main-green-button scroll-to-section">
+                      <a href="/mobile/register">Register</a>
+                    </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-12">
+                    <h2>Enjoy Data at Cheapest Prices</h2>
+                  </div>
+                
+                  
+                </div>
+              </div>
+            </div>
+
+           
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div id="features" class="features section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="features-content">
+            <div class="row">
+              <div class="col-lg-3">
+                <div class="features-item first-feature wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s">
+                  <div class="first-number number">
+                    <h6>01</h6>
+                  </div>
+                  <div class="icon"></div>
+                  <h4>We Are Reliable</h4>
+                  <div class="line-dec"></div>
+                  <p>
+                  Dataflex is a fully optimized platform for reliability and dependability. You get 100% value for any transaction you carry with us...</p>
+                </div>
+              </div>
+              <div class="col-lg-3">
+                <div class="features-item second-feature wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+                  <div class="second-number number">
+                    <h6>02</h6>
+                  </div>
+                  <div class="icon"></div>
+                  <h4>We Are Automated</h4>
+                  <div class="line-dec"></div>
+                  <p>We use cutting-edge technology to run our services. Our data delivery and wallet funding is automated, airtime top-up and data purchase are automated and get delivered to you almost instantly.... </p>
+                </div>
+              </div>
+              <div class="col-lg-3">
+                <div class="features-item first-feature wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s">
+                  <div class="third-number number">
+                    <h6>03</h6>
+                  </div>
+                  <div class="icon"></div>
+                  <h4>24/7 Support</h4>
+                  <div class="line-dec"></div>
+                  <p>Our customers are premium to us, hence satisfying them is our topmost priority. Our customer service is just a click away.... </p>
+                </div>
+              </div>
+             
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+
+  <div id="about" class="about-us section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="left-image wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
+            <img src="index/assets/images/about-left-image.png" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6 align-self-center wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+          <div class="section-heading">
+            <h6>About Us</h6>
+           
+          </div>
+          <div class="row">
+            <div class="col-lg-4 col-sm-4">
+              <div class="about-item">
+                <h4>2582</h4>
+                <h6>Total Users</h6>
+              </div>
+            </div>
+            <div class="col-lg-4 col-sm-4">
+              <div class="about-item">
+                <h4>2010</h4>
+                <h6>Daily Visitors</h6>
+              </div>
+            </div>
+            <div class="col-lg-4 col-sm-4">
+              <div class="about-item">
+                <h4>800</h4>
+                <h6>Total Agents</h6>
+              </div>
+            </div>
+          </div>
+          
+          <p><a rel="nofollow" href="https://templatemo.com/tm-563-seo-dream" target="_parent">Dataflex</a> Is a VTU Website that offered intance Data for all network, Electricity bill payment, Cable subscription and Airtime topup.</p>
+         
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="services" class="our-services section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 offset-lg-3">
+          <div class="section-heading wow bounceIn" data-wow-duration="1s" data-wow-delay="0.2s">
+            <h6>Our Services</h6>
+            <h2>Discover What We Do &amp; <span>Offer</span> To Our <em>Clients</em></h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-4">
+          <div class="service-item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.3s">
+            <div class="row">
+              <div class="col-lg-4">
+                <div class="icon">
+                  <img src="index/assets/images/service-icon-01.png" alt="">
+                </div>
+              </div>
+              <div class="col-lg-8">
+                <div class="right-content">
+                  <h4>Data</h4>
+                  <p>We offered Data for all network with intance delivery.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="service-item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.4s">
+            <div class="row">
+              <div class="col-lg-4">
+                <div class="icon">
+                  <img src="index/assets/images/service-icon-02.png" alt="">
+                </div>
+              </div>
+              <div class="col-lg-8">
+                <div class="right-content">
+                  <h4>Electricity Bill</h4>
+                  <p>Pay electricity bill.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="service-item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.5s">
+            <div class="row">
+              <div class="col-lg-4">
+                <div class="icon">
+                  <img src="index/assets/images/service-icon-03.png" alt="">
+                </div>
+              </div>
+              <div class="col-lg-8">
+                <div class="right-content">
+                  <h4>Cable Subscription</h4>
+                  <p>Subscribe your DSTV, Gotv and Startimes.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="service-item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.6s">
+            <div class="row">
+              <div class="col-lg-4">
+                <div class="icon">
+                  <img src="index/assets/images/service-icon-03.png" alt="">
+                </div>
+              </div>
+              <div class="col-lg-8">
+                <div class="right-content">
+                  <h4>TopUp</h4>
+                  <p>Topup your Phone with MTN, Airtel, Glo and 9 mobile .</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+       
+       
+      </div>
+    </div>
+  </div>
+
+  <div id="portfolio" class="our-portfolio section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-5">
+          <div class="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+            <h6>Our Partners</h6>
+           
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="loop owl-carousel">
+            <div class="item">
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="index/assets/images/mtn.jpg" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>MTN</h4></a>
+                      <span>Data and Airtime</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="index/assets/images/glo.jpg" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>Glo</h4></a>
+                      <span>Data and Airtime</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="index/assets/images/etisalat.png" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>9 Mobile</h4></a>
+                      <span>Data and Airtime</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="index/assets/images/airtel.png" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>Airtel</h4></a>
+                      <span>Data and Airtime</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+        
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="contact" class="contact-us section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
+          <form id="contact" action="" method="post">
+            <div class="row">
+              <div class="col-lg-6 offset-lg-3">
+                <div class="section-heading">
+                  <h6>Contact Us</h6>
+                  
+                </div>
+              </div>
+          
+
+              <div class="col-lg-3">
+                <div class="contact-info">
+                  <ul>
+                    <li>
+                      <div class="icon">
+                        <img src="index/assets/images/contact-icon-01.png" alt="email icon">
+                      </div>
+                      <a href="#">dataflex20@gmail.con</a>
+                    </li>
+                    <li>
+                      <div class="icon">
+                        <img src="index/assets/images/contact-icon-02.png" alt="phone">
+                      </div>
+                      <a href="#">+2347041263686</a>
+                    </li>
+                    <li>
+                      <div class="icon">
+                        <img src="index/assets/images/contact-icon-03.png" alt="location">
+                      </div>
+                      <a href="#">katsina State, Nigeria</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <p>Copyright © <?php echo date("Y");?> Dataflex All Rights Reserved. 
+          
+          <br>Powered by <a rel="nofollow" href="https" title="free CSS templates">Dan-ayu browser</a></p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="index/vendor/jquery/jquery.min.js"></script>
+  <script src="index/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="index/assets/js/owl-carousel.js"></script>
+  <script src="index/assets/js/animation.js"></script>
+  <script src="index/assets/js/imagesloaded.js"></script>
+  <script src="index/assets/js/custom.js"></script>
+
+</body>
+</html>

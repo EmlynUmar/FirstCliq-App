@@ -1,0 +1,1 @@
+Failed to connect to husmodataapi.com port 443 after 127228 ms: Could not connect to server

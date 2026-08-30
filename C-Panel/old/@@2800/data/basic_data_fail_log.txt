@@ -1,0 +1,1 @@
+{"network":"MTN","request-id":"DATA_8411727188488","amount":"516","dataplan":"2GB","status":"fail","message":"Transaction  fail MTN SME 2GB to 07043572268","phone_number":"07043572268","oldbal":"45906","newbal":45906,"system":"API","plan_type":"SME","wallet_vending":"wallet","response":"Activation of SHARE 2GB was not successful. Please try again."}

@@ -1,0 +1,42 @@
+[02-May-2024 14:14:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 175
+[02-May-2024 14:14:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$msg in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 229
+[02-May-2024 14:14:34 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 266
+[02-May-2024 14:15:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 175
+[02-May-2024 14:15:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$msg in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 229
+[02-May-2024 14:15:01 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 266
+[02-May-2024 14:15:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 175
+[02-May-2024 14:15:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$msg in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 229
+[02-May-2024 14:15:38 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 266
+[02-May-2024 14:18:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 175
+[02-May-2024 14:18:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$msg in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 229
+[02-May-2024 14:18:55 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 266
+[02-May-2024 14:19:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 175
+[02-May-2024 14:19:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$msg in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 229
+[02-May-2024 14:19:35 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 266
+[02-May-2024 14:25:09 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 159
+[02-May-2024 14:25:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 175
+[02-May-2024 14:25:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$msg in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 229
+[02-May-2024 14:25:35 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 266
+[02-May-2024 14:25:57 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 175
+[02-May-2024 14:25:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$msg in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 229
+[02-May-2024 14:25:58 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 266
+[06-May-2024 20:30:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 175
+[06-May-2024 20:30:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$msg in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 229
+[06-May-2024 20:30:48 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 266
+[06-May-2024 20:31:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 175
+[06-May-2024 20:31:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$msg in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 229
+[06-May-2024 20:31:36 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 266
+[06-May-2024 20:34:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 175
+[06-May-2024 20:34:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$msg in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 229
+[06-May-2024 20:34:02 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 266
+[06-May-2024 21:07:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 175
+[06-May-2024 21:07:06 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$msg in /home/eplxbrcj/public_html/core/Controllers/Exam.php on line 229
+[06-May-2024 21:07:06 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 266
+[06-May-2024 21:14:07 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 159
+[06-May-2024 21:20:12 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 255
+[19-May-2024 08:42:19 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 255
+[24-May-2024 19:29:32 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 255
+[14-Jul-2024 18:47:17 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 159
+[14-Jul-2024 18:50:37 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/exam/index.php on line 255
+[10-Apr-2025 20:09:09 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/exam/index.php on line 159
+[21-Apr-2025 08:50:52 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/exam/index.php on line 159

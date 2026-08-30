@@ -1,0 +1,154 @@
+[08-Dec-2024 16:25:13 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 133
+[08-Dec-2024 16:33:35 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 133
+[12-Dec-2024 08:58:39 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[12-Dec-2024 08:58:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[12-Dec-2024 08:58:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[12-Dec-2024 08:58:40 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 207
+[12-Dec-2024 09:01:29 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[12-Dec-2024 09:01:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[12-Dec-2024 09:01:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[12-Dec-2024 09:01:30 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 207
+[12-Dec-2024 11:29:49 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[12-Dec-2024 11:29:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[12-Dec-2024 11:29:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[12-Dec-2024 11:29:49 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 207
+[12-Dec-2024 17:43:34 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[12-Dec-2024 17:43:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[12-Dec-2024 17:43:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[12-Dec-2024 17:43:35 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 207
+[12-Dec-2024 22:03:18 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[12-Dec-2024 22:03:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[12-Dec-2024 22:03:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[12-Dec-2024 22:03:19 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 207
+[22-Dec-2024 07:53:42 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 133
+[24-Dec-2024 22:29:09 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 133
+[04-Jan-2025 10:29:59 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[04-Jan-2025 10:30:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[04-Jan-2025 10:30:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[04-Jan-2025 10:30:04 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 207
+[05-Jan-2025 14:21:18 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[05-Jan-2025 14:21:20 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/dataflex/agdatasub.com/core/Models/ApiModel.php on line 426
+[05-Jan-2025 14:21:34 Africa/Lagos] PHP Warning:  Undefined variable $profit in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 199
+[05-Jan-2025 14:21:34 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 202
+[05-Jan-2025 14:23:11 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[05-Jan-2025 14:23:15 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/dataflex/agdatasub.com/core/Models/ApiModel.php on line 426
+[05-Jan-2025 14:23:29 Africa/Lagos] PHP Warning:  Undefined variable $profit in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 199
+[05-Jan-2025 14:23:29 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 202
+[14-Jan-2025 15:16:07 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 133
+[18-Feb-2025 12:23:27 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 133
+[20-Feb-2025 20:18:40 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 133
+[16-Mar-2025 11:19:07 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[16-Mar-2025 11:19:10 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/dataflex/agdatasub.com/core/Models/ApiModel.php on line 426
+[16-Mar-2025 11:19:24 Africa/Lagos] PHP Warning:  Undefined variable $profit in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 199
+[16-Mar-2025 11:19:24 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 202
+[20-Mar-2025 11:35:47 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[20-Mar-2025 11:35:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[20-Mar-2025 11:35:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[20-Mar-2025 11:35:47 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 207
+[20-Mar-2025 11:37:44 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[20-Mar-2025 11:37:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[20-Mar-2025 11:37:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[20-Mar-2025 11:37:44 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 207
+[20-Mar-2025 11:46:38 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[20-Mar-2025 11:46:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[20-Mar-2025 11:46:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[20-Mar-2025 11:46:39 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 207
+[20-Mar-2025 11:58:24 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[20-Mar-2025 11:58:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[20-Mar-2025 11:58:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[20-Mar-2025 11:58:25 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 207
+[08-Apr-2025 20:54:31 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 133
+[17-Jun-2025 23:48:23 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[17-Jun-2025 23:48:26 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/dataflex/agdatasub.com/core/Models/ApiModel.php on line 426
+[17-Jun-2025 23:50:04 Africa/Lagos] PHP Warning:  Undefined variable $profit in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 199
+[24-Jul-2025 06:28:33 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[24-Jul-2025 06:28:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 06:28:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 07:05:39 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[24-Jul-2025 07:05:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 07:05:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 07:07:33 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[24-Jul-2025 07:07:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 07:07:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 07:13:26 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[24-Jul-2025 07:13:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 07:13:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 07:14:24 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[24-Jul-2025 07:14:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 07:14:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 07:23:13 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[24-Jul-2025 07:23:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 07:23:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 07:38:37 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[24-Jul-2025 07:38:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 07:38:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 08:11:36 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[24-Jul-2025 08:11:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 08:11:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 13:34:09 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[24-Jul-2025 13:34:10 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 13:34:10 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 13:37:01 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[24-Jul-2025 13:37:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[24-Jul-2025 13:37:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[25-Jul-2025 10:20:05 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[25-Jul-2025 10:20:08 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/dataflex/agdatasub.com/core/Models/ApiModel.php on line 426
+[25-Jul-2025 10:20:24 Africa/Lagos] PHP Warning:  Undefined variable $profit in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 199
+[16-Sep-2025 12:47:07 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[16-Sep-2025 12:47:11 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/dataflex/agdatasub.com/core/Models/ApiModel.php on line 426
+[16-Sep-2025 12:47:26 Africa/Lagos] PHP Warning:  Undefined variable $profit in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 199
+[17-Sep-2025 11:02:39 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[17-Sep-2025 11:02:51 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/dataflex/agdatasub.com/core/Models/ApiModel.php on line 426
+[17-Sep-2025 11:03:05 Africa/Lagos] PHP Warning:  Undefined variable $profit in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 199
+[29-Oct-2025 11:09:42 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[29-Oct-2025 11:09:45 Africa/Lagos] PHP Warning:  Undefined variable $status in /home/dataflex/agdatasub.com/core/Models/ApiModel.php on line 426
+[29-Oct-2025 11:09:59 Africa/Lagos] PHP Warning:  Undefined variable $profit in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 199
+[31-Oct-2025 15:53:21 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[31-Oct-2025 15:53:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[31-Oct-2025 15:53:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[31-Oct-2025 15:55:11 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[31-Oct-2025 15:55:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[31-Oct-2025 15:55:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[31-Oct-2025 21:40:21 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[31-Oct-2025 21:40:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[31-Oct-2025 21:40:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[22-Dec-2025 23:37:36 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[22-Dec-2025 23:37:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[22-Dec-2025 23:37:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[22-Dec-2025 23:39:18 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[22-Dec-2025 23:39:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[22-Dec-2025 23:39:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[03-Mar-2026 00:30:42 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[03-Mar-2026 00:30:43 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[03-Mar-2026 00:30:43 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[03-Mar-2026 00:31:17 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[03-Mar-2026 00:31:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[03-Mar-2026 00:31:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[03-Mar-2026 00:32:53 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[03-Mar-2026 00:32:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[03-Mar-2026 00:32:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[03-Mar-2026 00:33:37 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[03-Mar-2026 00:33:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[03-Mar-2026 00:33:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[03-Mar-2026 00:35:16 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[03-Mar-2026 00:35:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[03-Mar-2026 00:35:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[03-Mar-2026 00:41:24 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[03-Mar-2026 00:41:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[03-Mar-2026 00:41:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[07-Apr-2026 09:24:45 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[07-Apr-2026 09:24:46 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[07-Apr-2026 09:24:46 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[07-Apr-2026 09:25:22 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[07-Apr-2026 09:25:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[07-Apr-2026 09:25:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[27-Apr-2026 16:15:32 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[27-Apr-2026 16:15:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[27-Apr-2026 16:15:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[27-Apr-2026 16:15:57 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[27-Apr-2026 16:15:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[27-Apr-2026 16:15:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[13-May-2026 13:48:45 Africa/Lagos] PHP Warning:  Undefined variable $amount in /home/dataflex/agdatasub.com/@@2800/nin/index.php on line 157
+[13-May-2026 13:48:46 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[13-May-2026 13:48:46 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/dataflex/agdatasub.com/core/Controllers/NIN.php on line 130
+[19-Jul-2026 13:16:03 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tcrwrtsr/agdatasub.com/core/Models/ApiModel.php:1282) in /home/tcrwrtsr/agdatasub.com/@@2800/nin/index.php on line 133

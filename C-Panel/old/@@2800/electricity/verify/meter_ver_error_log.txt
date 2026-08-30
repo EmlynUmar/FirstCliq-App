@@ -1,0 +1,1 @@
+{"status":"fail","message":"Meter Number Required"}https://rabdata360.com/api/bill/bill-validation?mtype=prepaid&disconame=yola-electric&disco=11&meternumber=04180608756

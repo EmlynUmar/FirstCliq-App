@@ -1,0 +1,1 @@
+{"status":"fail","msg":"Server Connection Error"} Could not resolve host: www.subarena https://www.subarena/api/rechargepin/

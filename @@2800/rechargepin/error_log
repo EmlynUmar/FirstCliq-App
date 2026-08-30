@@ -1,0 +1,805 @@
+[17-Jun-2024 07:26:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[17-Jun-2024 07:26:05 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[17-Jun-2024 07:26:05 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 07:26:05 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 07:26:05 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 07:26:06 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[17-Jun-2024 07:26:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[17-Jun-2024 07:26:45 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[17-Jun-2024 07:26:45 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 07:26:45 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 07:26:45 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 07:26:45 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[17-Jun-2024 10:13:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[17-Jun-2024 10:13:17 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[17-Jun-2024 10:13:17 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 10:13:17 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 10:13:17 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 10:13:17 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[17-Jun-2024 10:27:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[17-Jun-2024 10:27:52 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[17-Jun-2024 10:27:52 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 10:27:52 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 10:27:52 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 10:27:52 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[17-Jun-2024 10:31:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[17-Jun-2024 10:31:22 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[17-Jun-2024 10:31:22 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 10:31:22 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 10:31:22 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 10:31:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[17-Jun-2024 10:31:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[17-Jun-2024 10:31:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[17-Jun-2024 10:31:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[17-Jun-2024 10:31:22 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[17-Jun-2024 10:31:22 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[17-Jun-2024 10:31:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[17-Jun-2024 10:31:34 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[17-Jun-2024 10:31:34 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 10:31:34 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 10:31:34 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 10:31:34 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[17-Jun-2024 13:41:06 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[17-Jun-2024 13:41:06 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[17-Jun-2024 13:41:06 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 13:41:06 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 13:41:06 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 13:41:06 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[17-Jun-2024 13:43:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[17-Jun-2024 13:43:05 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[17-Jun-2024 13:43:05 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 13:43:05 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 13:43:05 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 13:43:05 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[17-Jun-2024 19:16:57 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[17-Jun-2024 19:16:57 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[17-Jun-2024 19:16:57 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 19:16:57 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 19:16:57 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[17-Jun-2024 19:16:57 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 289
+[18-Jun-2024 08:43:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 08:43:11 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 08:43:11 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 08:43:11 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 08:43:11 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 08:43:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 08:43:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 08:43:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 08:43:11 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 08:43:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 08:43:50 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 08:43:50 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 08:43:50 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 08:43:50 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 08:43:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 08:43:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 08:43:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 08:43:50 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 14:44:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 14:44:01 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 14:44:01 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 14:44:01 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 14:44:01 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 14:44:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 14:44:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 14:44:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 14:44:01 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 20:08:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 20:08:18 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 20:08:18 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:08:18 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:08:18 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:08:19 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[18-Jun-2024 20:19:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 20:19:05 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 20:19:05 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:19:05 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:19:05 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:19:05 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[18-Jun-2024 20:23:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 20:23:03 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 20:23:03 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:23:03 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:23:03 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:23:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:23:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:23:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 20:23:03 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 20:23:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 20:23:45 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 20:23:45 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:23:45 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:23:45 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:23:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:23:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:23:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 20:23:45 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 20:24:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 20:24:23 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 20:24:23 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:24:23 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:24:23 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:24:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:24:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:24:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 20:24:23 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 20:24:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 20:24:49 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 20:24:49 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:24:49 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:24:49 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:24:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:24:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:24:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 20:24:49 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 20:25:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 20:25:22 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 20:25:22 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:25:22 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:25:22 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:25:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:25:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:25:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 20:25:23 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 20:26:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 20:26:35 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 20:26:35 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:26:35 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:26:35 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:26:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:26:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:26:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 20:26:36 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 20:44:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 20:44:25 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 20:44:25 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:44:25 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:44:25 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:44:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:44:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:44:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 20:44:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 20:44:25 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 20:44:25 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 20:46:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 20:46:13 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 20:46:13 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:46:13 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:46:13 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:46:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:46:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:46:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 20:46:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 20:46:13 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 20:46:13 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 20:56:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 20:56:27 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 20:56:27 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:56:27 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:56:27 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:56:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:56:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:56:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 20:56:27 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 20:59:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 20:59:08 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 20:59:08 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:59:08 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:59:08 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 20:59:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:59:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 20:59:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 20:59:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 20:59:08 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 20:59:08 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 21:02:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 21:02:05 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 21:02:05 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:02:05 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:02:05 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:02:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 21:02:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 21:02:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 21:02:05 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 21:03:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 21:03:50 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 21:03:50 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:03:50 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:03:50 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:03:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 21:03:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 21:03:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 21:03:50 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 21:05:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 21:05:36 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 21:05:36 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:05:36 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:05:36 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:05:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 21:05:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 21:05:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 21:05:36 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 21:07:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 21:07:22 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 21:07:22 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:07:22 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:07:22 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:07:22 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 289
+[18-Jun-2024 21:19:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 21:19:03 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 21:19:03 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:19:03 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:19:03 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:19:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 21:19:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 21:19:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 21:19:03 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 21:20:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 21:20:09 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 21:20:09 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:20:09 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:20:09 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:20:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 21:20:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 21:20:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 21:20:09 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 21:23:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 21:23:01 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 21:23:01 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:23:01 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:23:01 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:23:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 21:23:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 21:23:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 21:23:01 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 21:25:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 21:25:37 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 21:25:37 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:25:37 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:25:37 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:25:37 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 289
+[18-Jun-2024 21:33:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 21:33:47 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 21:33:47 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:33:47 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:33:47 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:33:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 21:33:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 21:33:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 21:33:47 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 21:35:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 21:35:21 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 21:35:21 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:35:21 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:35:21 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 21:35:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 21:35:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 21:35:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 21:35:21 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 22:00:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 22:00:27 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 22:00:27 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:00:27 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:00:27 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:00:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:00:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:00:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 22:00:27 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 22:13:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 22:13:27 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 22:13:27 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:13:27 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:13:27 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:13:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:13:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:13:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 22:13:27 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 22:15:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 22:15:53 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 22:15:53 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:15:53 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:15:53 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:15:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:15:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:15:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 22:15:53 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 22:24:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 22:24:29 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 22:24:29 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:24:29 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:24:29 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:24:29 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[18-Jun-2024 22:25:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 22:25:44 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 22:25:44 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:25:44 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:25:44 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:25:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:25:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:25:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 22:25:44 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 22:26:10 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 22:26:10 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 22:26:10 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:26:10 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:26:10 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:26:10 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[18-Jun-2024 22:26:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 22:26:54 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 22:26:54 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:26:54 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:26:54 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:26:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:26:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:26:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 22:26:54 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 22:27:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 22:27:21 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 22:27:21 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:27:21 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:27:21 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:27:21 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[18-Jun-2024 22:28:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 22:28:03 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 22:28:03 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:28:03 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:28:03 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:28:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:28:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:28:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 22:28:03 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 22:34:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 22:34:17 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 22:34:17 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:34:17 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:34:17 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:34:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:34:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:34:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 22:34:18 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 22:35:07 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 22:35:07 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 22:35:07 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:35:07 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:35:07 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:35:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:35:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:35:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 22:35:09 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 22:35:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 22:35:40 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 22:35:40 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:35:40 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:35:40 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 22:35:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:35:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 22:35:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 22:35:41 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 23:02:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 23:02:02 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 23:02:02 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:02:02 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:02:02 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:02:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 23:02:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 23:02:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 23:02:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 23:02:02 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 23:02:02 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 23:07:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 23:07:25 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 23:07:25 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:07:25 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:07:25 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:07:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 23:07:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 23:07:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 23:07:25 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 23:08:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 23:08:33 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 23:08:33 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:08:33 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:08:33 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:08:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 23:08:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 23:08:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 23:08:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 23:08:33 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 23:08:33 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 23:09:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 23:09:55 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 23:09:55 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:09:55 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:09:55 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:09:55 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[18-Jun-2024 23:13:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 23:13:29 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 23:13:29 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:13:29 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:13:29 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:13:29 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 23:13:29 Africa/Lagos] PHP Warning:  Attempt to read property "status" on null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 23:13:29 Africa/Lagos] PHP Warning:  Attempt to read property "status" on null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 23:13:29 Africa/Lagos] PHP Warning:  Attempt to read property "error" on null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 23:13:29 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 23:13:29 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 23:15:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 23:15:27 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 23:15:27 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:15:27 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:15:27 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:15:27 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 23:15:27 Africa/Lagos] PHP Warning:  Attempt to read property "status" on null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 23:15:27 Africa/Lagos] PHP Warning:  Attempt to read property "status" on null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 23:15:27 Africa/Lagos] PHP Warning:  Attempt to read property "error" on null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 23:15:27 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 23:15:27 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 23:18:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 23:18:04 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 23:18:04 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:18:04 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:18:04 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:18:04 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 23:18:04 Africa/Lagos] PHP Warning:  Attempt to read property "status" on null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 23:18:04 Africa/Lagos] PHP Warning:  Attempt to read property "status" on null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 23:18:04 Africa/Lagos] PHP Warning:  Attempt to read property "error" on null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 23:18:04 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 23:18:04 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[18-Jun-2024 23:39:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[18-Jun-2024 23:39:55 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[18-Jun-2024 23:39:55 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:39:55 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:39:55 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[18-Jun-2024 23:39:55 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 23:39:55 Africa/Lagos] PHP Warning:  Attempt to read property "status" on null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[18-Jun-2024 23:39:55 Africa/Lagos] PHP Warning:  Attempt to read property "status" on null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[18-Jun-2024 23:39:55 Africa/Lagos] PHP Warning:  Attempt to read property "error" on null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 23:39:55 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[18-Jun-2024 23:39:55 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[19-Jun-2024 06:36:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[19-Jun-2024 06:36:52 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[19-Jun-2024 06:36:52 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 06:36:52 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 06:36:52 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 06:36:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[19-Jun-2024 06:36:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[19-Jun-2024 06:36:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[19-Jun-2024 06:36:52 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[19-Jun-2024 06:43:07 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[19-Jun-2024 06:43:07 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[19-Jun-2024 06:43:07 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 06:43:07 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 06:43:07 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 06:43:07 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[19-Jun-2024 06:43:07 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[19-Jun-2024 06:43:07 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[19-Jun-2024 06:43:07 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[19-Jun-2024 06:45:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[19-Jun-2024 06:45:25 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[19-Jun-2024 06:45:25 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 06:45:25 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 06:45:25 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 06:45:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[19-Jun-2024 06:45:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[19-Jun-2024 06:45:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[19-Jun-2024 06:45:25 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[19-Jun-2024 08:51:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[19-Jun-2024 08:51:04 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[19-Jun-2024 08:51:04 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 08:51:04 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 08:51:04 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 08:51:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[19-Jun-2024 08:51:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[19-Jun-2024 08:51:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[19-Jun-2024 08:51:04 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[19-Jun-2024 08:51:57 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[19-Jun-2024 08:51:57 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[19-Jun-2024 08:51:57 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 08:51:57 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 08:51:57 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 08:51:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[19-Jun-2024 08:51:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[19-Jun-2024 08:51:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[19-Jun-2024 08:51:58 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[19-Jun-2024 09:19:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[19-Jun-2024 09:19:58 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[19-Jun-2024 09:19:58 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 09:19:58 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 09:19:58 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 09:19:58 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[19-Jun-2024 23:06:51 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[19-Jun-2024 23:06:51 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[19-Jun-2024 23:06:51 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 23:06:51 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 23:06:51 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[19-Jun-2024 23:06:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[19-Jun-2024 23:06:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[19-Jun-2024 23:06:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[19-Jun-2024 23:06:52 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[20-Jun-2024 17:34:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[20-Jun-2024 17:34:53 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[20-Jun-2024 17:34:53 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[20-Jun-2024 17:34:53 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[20-Jun-2024 17:34:53 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[20-Jun-2024 17:34:53 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 289
+[21-Jun-2024 12:31:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[21-Jun-2024 12:31:18 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[21-Jun-2024 12:31:18 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[21-Jun-2024 12:31:18 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[21-Jun-2024 12:31:18 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[21-Jun-2024 12:31:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[21-Jun-2024 12:31:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[21-Jun-2024 12:31:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[21-Jun-2024 12:31:18 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[21-Jun-2024 12:32:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[21-Jun-2024 12:32:53 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[21-Jun-2024 12:32:53 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[21-Jun-2024 12:32:53 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[21-Jun-2024 12:32:53 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[21-Jun-2024 12:32:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[21-Jun-2024 12:32:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[21-Jun-2024 12:32:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[21-Jun-2024 12:32:53 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[21-Jun-2024 12:37:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[21-Jun-2024 12:37:19 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[21-Jun-2024 12:37:19 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[21-Jun-2024 12:37:19 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[21-Jun-2024 12:37:19 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[21-Jun-2024 12:37:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[21-Jun-2024 12:37:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[21-Jun-2024 12:37:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[21-Jun-2024 12:37:19 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[21-Jun-2024 18:47:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[21-Jun-2024 18:47:38 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[21-Jun-2024 18:47:38 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[21-Jun-2024 18:47:38 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[21-Jun-2024 18:47:38 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[21-Jun-2024 18:47:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[21-Jun-2024 18:47:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[21-Jun-2024 18:47:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[21-Jun-2024 18:47:38 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[22-Jun-2024 16:47:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[22-Jun-2024 16:47:14 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[22-Jun-2024 16:47:14 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[22-Jun-2024 16:47:14 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[22-Jun-2024 16:47:14 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[22-Jun-2024 16:47:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[22-Jun-2024 16:47:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[22-Jun-2024 16:47:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[22-Jun-2024 16:47:14 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[22-Jun-2024 19:49:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[22-Jun-2024 19:49:24 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[22-Jun-2024 19:49:24 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[22-Jun-2024 19:49:24 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[22-Jun-2024 19:49:24 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[22-Jun-2024 19:49:24 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[24-Jun-2024 22:05:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[24-Jun-2024 22:05:03 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[24-Jun-2024 22:05:03 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[24-Jun-2024 22:05:03 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[24-Jun-2024 22:05:03 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[24-Jun-2024 22:05:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[24-Jun-2024 22:05:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[24-Jun-2024 22:05:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[24-Jun-2024 22:05:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[24-Jun-2024 22:05:03 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[24-Jun-2024 22:05:03 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[25-Jun-2024 14:25:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[25-Jun-2024 14:25:37 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[25-Jun-2024 14:25:37 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:25:37 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:25:37 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:25:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[25-Jun-2024 14:25:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[25-Jun-2024 14:25:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[25-Jun-2024 14:25:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[25-Jun-2024 14:25:38 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[25-Jun-2024 14:25:38 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[25-Jun-2024 14:47:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[25-Jun-2024 14:47:48 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[25-Jun-2024 14:47:48 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:47:48 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:47:48 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:47:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[25-Jun-2024 14:47:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[25-Jun-2024 14:47:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[25-Jun-2024 14:47:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[25-Jun-2024 14:47:49 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[25-Jun-2024 14:47:49 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[25-Jun-2024 14:48:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[25-Jun-2024 14:48:17 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[25-Jun-2024 14:48:17 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:48:17 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:48:17 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:48:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[25-Jun-2024 14:48:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[25-Jun-2024 14:48:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[25-Jun-2024 14:48:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[25-Jun-2024 14:48:17 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[25-Jun-2024 14:48:17 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[25-Jun-2024 14:49:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[25-Jun-2024 14:49:27 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[25-Jun-2024 14:49:27 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:49:27 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:49:27 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:49:27 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[25-Jun-2024 14:54:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[25-Jun-2024 14:54:00 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[25-Jun-2024 14:54:00 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:54:00 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:54:00 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:54:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[25-Jun-2024 14:54:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[25-Jun-2024 14:54:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[25-Jun-2024 14:54:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[25-Jun-2024 14:54:00 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[25-Jun-2024 14:54:00 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[25-Jun-2024 14:56:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[25-Jun-2024 14:56:25 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[25-Jun-2024 14:56:25 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:56:25 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:56:25 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 14:56:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[25-Jun-2024 14:56:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[25-Jun-2024 14:56:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[25-Jun-2024 14:56:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[25-Jun-2024 14:56:25 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[25-Jun-2024 14:56:25 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[25-Jun-2024 22:51:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[25-Jun-2024 22:51:21 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[25-Jun-2024 22:51:21 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 22:51:21 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 22:51:21 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[25-Jun-2024 22:51:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[25-Jun-2024 22:51:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[25-Jun-2024 22:51:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[25-Jun-2024 22:51:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[25-Jun-2024 22:51:21 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[25-Jun-2024 22:51:21 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[26-Jun-2024 10:19:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[26-Jun-2024 10:19:19 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[26-Jun-2024 10:19:19 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:19:19 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:19:19 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:19:19 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[26-Jun-2024 10:27:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[26-Jun-2024 10:27:34 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[26-Jun-2024 10:27:34 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:27:34 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:27:34 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:27:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 10:27:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 10:27:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[26-Jun-2024 10:27:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 10:27:35 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 10:27:35 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[26-Jun-2024 10:27:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[26-Jun-2024 10:27:58 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[26-Jun-2024 10:27:58 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:27:58 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:27:58 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:27:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 10:27:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 10:27:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[26-Jun-2024 10:27:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 10:27:59 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 10:27:59 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[26-Jun-2024 10:29:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[26-Jun-2024 10:29:16 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[26-Jun-2024 10:29:16 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:29:16 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:29:16 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:29:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 10:29:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 10:29:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[26-Jun-2024 10:29:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 10:29:16 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 10:29:16 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[26-Jun-2024 10:31:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[26-Jun-2024 10:31:29 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[26-Jun-2024 10:31:29 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:31:29 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:31:29 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:31:29 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 360
+[26-Jun-2024 10:33:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[26-Jun-2024 10:33:35 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[26-Jun-2024 10:33:35 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:33:35 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:33:35 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:33:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 10:33:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 10:33:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[26-Jun-2024 10:33:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 10:33:35 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 10:33:35 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[26-Jun-2024 10:34:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[26-Jun-2024 10:34:01 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[26-Jun-2024 10:34:01 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:34:01 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:34:01 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 10:34:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 10:34:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 10:34:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[26-Jun-2024 10:34:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 10:34:02 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 10:34:02 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[26-Jun-2024 17:11:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[26-Jun-2024 17:11:30 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[26-Jun-2024 17:11:30 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 17:11:30 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 17:11:30 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 17:11:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 17:11:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 17:11:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[26-Jun-2024 17:11:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 17:11:30 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 17:11:31 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[26-Jun-2024 17:11:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[26-Jun-2024 17:11:49 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[26-Jun-2024 17:11:49 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 17:11:49 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 17:11:49 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 17:11:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 17:11:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 17:11:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[26-Jun-2024 17:11:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 17:11:50 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 17:11:50 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[26-Jun-2024 17:13:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[26-Jun-2024 17:13:02 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[26-Jun-2024 17:13:02 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 17:13:02 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 17:13:02 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 17:13:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 17:13:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 17:13:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[26-Jun-2024 17:13:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 17:13:02 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 17:13:02 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[26-Jun-2024 17:15:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[26-Jun-2024 17:15:19 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[26-Jun-2024 17:15:19 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 17:15:19 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 17:15:19 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 17:15:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 17:15:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 17:15:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[26-Jun-2024 17:15:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 17:15:19 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 17:15:19 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[26-Jun-2024 17:15:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[26-Jun-2024 17:15:37 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[26-Jun-2024 17:15:37 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 17:15:37 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 17:15:37 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[26-Jun-2024 17:15:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 17:15:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[26-Jun-2024 17:15:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[26-Jun-2024 17:15:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 17:15:37 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[26-Jun-2024 17:15:37 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[08-Jul-2024 15:39:10 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[08-Jul-2024 15:39:10 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[08-Jul-2024 15:39:10 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[08-Jul-2024 15:39:10 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[08-Jul-2024 15:39:10 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[08-Jul-2024 15:39:10 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 289
+[09-Jul-2024 20:18:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$aBuyDiscount in /home/eplxbrcj/public_html/core/Controllers/ApiAccess.php on line 246
+[09-Jul-2024 20:18:45 Africa/Lagos] PHP Warning:  Undefined array key "price" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 254
+[09-Jul-2024 20:18:45 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[09-Jul-2024 20:18:45 Africa/Lagos] PHP Warning:  Undefined array key "datatype" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[09-Jul-2024 20:18:45 Africa/Lagos] PHP Warning:  Undefined array key "day" in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 278
+[09-Jul-2024 20:18:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[09-Jul-2024 20:18:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 82
+[09-Jul-2024 20:18:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$status in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 114
+[09-Jul-2024 20:18:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[09-Jul-2024 20:18:45 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/eplxbrcj/public_html/core/Controllers/RechargePin.php on line 119
+[09-Jul-2024 20:18:45 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eplxbrcj/public_html/core/Models/ApiModel.php:1282) in /home/eplxbrcj/public_html/@@2700/rechargepin/index.php on line 365
+[02-Oct-2024 21:40:10 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/rechargepin/index.php on line 240
+[16-Oct-2024 21:21:31 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/rechargepin/index.php on line 240
+[16-Oct-2024 21:22:09 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/rechargepin/index.php on line 240
+[19-Oct-2024 07:42:52 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/rechargepin/index.php on line 240
+[04-Nov-2024 07:33:13 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/rechargepin/index.php on line 240
+[05-Nov-2024 21:36:43 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/rechargepin/index.php on line 240
+[12-Nov-2024 00:26:30 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/rechargepin/index.php on line 240
+[28-Nov-2024 00:13:06 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dataflex/agdatasub.com/core/Models/ApiModel.php:1282) in /home/dataflex/agdatasub.com/@@2800/rechargepin/index.php on line 240

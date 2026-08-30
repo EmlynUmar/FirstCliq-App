@@ -1,0 +1,1 @@
+{"message":" BVN or NIN required","status":false,"code":"05"}
